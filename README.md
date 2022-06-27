@@ -1,3 +1,3 @@
 # phpMyAdmin-Scanner
 
-python3 pma.py list.txt
+python pma.py list.txt
